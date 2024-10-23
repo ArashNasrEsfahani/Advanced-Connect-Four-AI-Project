@@ -71,7 +71,8 @@ Choose Game Mode:
 - Click to drop piece
 - Watch for win announcements
 - Close window to exit
-- 
+
+  
 ![Board](board.png)
 
 ## 🎮 Game Modes
