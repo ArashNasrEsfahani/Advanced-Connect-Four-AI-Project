@@ -12,7 +12,6 @@ An intelligent implementation of Connect Four featuring multiple game modes and 
 
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
 - [Usage](#-usage)
 - [Game Modes](#-game-modes)
 - [Technical Implementation](#-technical-implementation)
@@ -34,18 +33,6 @@ An intelligent implementation of Connect Four featuring multiple game modes and 
 - NumPy
 - Pygame
 
-## 🚀 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/connect-four-ai.git
-cd connect-four-ai
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
 
 ## 💻 Usage
 
